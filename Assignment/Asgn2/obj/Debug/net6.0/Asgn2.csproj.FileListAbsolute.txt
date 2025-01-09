@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\bin\Debug\net6.0\Asgn2.exe
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\bin\Debug\net6.0\Asgn2.deps.json
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\bin\Debug\net6.0\Asgn2.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\bin\Debug\net6.0\Asgn2.dll
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\bin\Debug\net6.0\Asgn2.pdb
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.dll
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\refint\Asgn2.dll
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.pdb
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\Asgn2.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Assignments\dotNet\Assignment\Asgn2\obj\Debug\net6.0\ref\Asgn2.dll

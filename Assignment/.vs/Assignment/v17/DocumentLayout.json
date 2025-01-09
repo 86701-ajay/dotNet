@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F623A1DF-AA69-490F-9D1F-A55DD20BA091}|Asgn2\\Asgn2.csproj|c:\\users\\lenovo\\desktop\\assignments\\dotnet\\assignment\\asgn2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F623A1DF-AA69-490F-9D1F-A55DD20BA091}|Asgn2\\Asgn2.csproj|solutionrelative:asgn2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79E490A-553E-40D2-AA7C-5D9EE731962F}|Asgn1\\Asgn1.csproj|c:\\users\\lenovo\\desktop\\assignments\\dotnet\\assignment\\asgn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79E490A-553E-40D2-AA7C-5D9EE731962F}|Asgn1\\Asgn1.csproj|solutionrelative:asgn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Assignment\\Asgn2\\Program.cs",
+              "RelativeDocumentMoniker": "Asgn2\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Assignment\\Asgn2\\Program.cs",
+              "RelativeToolTip": "Asgn2\\Program.cs",
+              "ViewState": "AgIAACAAAACAl5mZmVkqwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:29:09.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Assignment\\Asgn1\\Program.cs",
+              "RelativeDocumentMoniker": "Asgn1\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Assignment\\Asgn1\\Program.cs",
+              "RelativeToolTip": "Asgn1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:25:14.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Classwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E31EDB-056B-4DFE-9078-444919BE4F78}|Hello\\Hello.csproj|c:\\users\\lenovo\\desktop\\assignments\\dotnet\\classwork\\hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E31EDB-056B-4DFE-9078-444919BE4F78}|Hello\\Hello.csproj|solutionrelative:hello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Classwork\\Hello\\Program.cs",
+              "RelativeDocumentMoniker": "Hello\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Assignments\\dotNet\\Classwork\\Hello\\Program.cs",
+              "RelativeToolTip": "Hello\\Program.cs",
+              "ViewState": "AgIAAAcAAACgMzMzM3MiwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:19:20.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
